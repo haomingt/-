@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+E:\2345Downloads\Project32\FileName.cpp(201,19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\2345Downloads\Project32\FileName.cpp(201,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\2345Downloads\Project32\FileName.cpp(846,14): warning C4566: 由通用字符名称“\u266A”表示的字符不能在当前代码页(936)中表示出来
+E:\2345Downloads\Project32\FileName.cpp(598): warning C4715: “is_touch”: 不是所有的控件路径都返回值
+  Project32.vcxproj -> E:\2345Downloads\x64\Debug\Project32.exe
